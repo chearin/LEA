@@ -1,0 +1,53 @@
+﻿  lea_test.c
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(4,28): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(22,12): warning C4244: '=': 'long'에서 'uint8_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(26,28): warning C4028: 정식 매개 변수 1이(가) 선언과 다릅니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(26,47): warning C4028: 정식 매개 변수 2이(가) 선언과 다릅니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(55,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(59,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(63,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(68,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(96,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(100,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(104,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(106,26): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(114,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(143,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(147,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(151,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(160,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(190,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(194,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(198,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(199,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(203,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(208,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(237,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(241,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(245,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(246,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(250,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(287,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(291,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(295,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(296,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(300,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(313,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(343,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(347,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(351,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(352,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(356,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(361,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(390,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(394,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(398,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(399,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(403,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(439,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(443,45): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(447,44): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(448,27): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(452,48): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\happy\source\repos\2024(인턴)\LEA\LEA2\lea_test.c(462,46): warning C4267: '함수': 'size_t'에서 'const int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  LEA2.vcxproj -> C:\Users\happy\source\repos\2024(인턴)\LEA\x64\Debug\LEA2.exe
