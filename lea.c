@@ -33,7 +33,7 @@ int KeySchedule(const unsigned char* userKey, const int bits, LEA_KEY* key)
     case 128:
         for (int i = 0; i < 24; i++)
         {
-            T[0] = rotL((T[0] + rotL(Con[i % 4], i)), 1);
+            T[0] = rotL((T[0] + rotL(Con[i % 4], i)), 1);   // &0x03(0000 0011) ÇØµµ µÊ
             T[1] = rotL((T[1] + rotL(Con[i % 4], i + 1)), 3);
             T[2] = rotL((T[2] + rotL(Con[i % 4], i + 2)), 6);
             T[3] = rotL((T[3] + rotL(Con[i % 4], i + 3)), 11);
